@@ -6,7 +6,7 @@ import argparse
 from colorama import Fore
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-numero", type=str, required=True, help="Añadir numero de telefono")
+parser.add_argument("6566388316", type=str, required=True, help="6566388316")
 args = parser.parse_args()
 
 logo = f"""{Fore.BLUE}▄▀▀▀▀▄     ▄▀▀█▀▄    ▄▀▀▄ ▀▄  ▄▀▀█▄▄▄▄  ▄▀▀▄  ▄▀▄ 
