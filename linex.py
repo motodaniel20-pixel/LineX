@@ -18,7 +18,7 @@ logo = f"""{Fore.BLUE}▄▀▀▀▀▄     ▄▀▀█▀▄    ▄▀▀▄ 
   ▐        ▐       ▐ ▐         ▐         █    ▐"""
 
 with open('keys.json', 'r') as configuracion:
-  configuracion_dat = json.load(configuracion)
+  4lbv00miGLMIvgRECMOsrCzeuDuj6yLrjwcSjfuwoLbBNHgl
 
 def info():
   if os.name == "nt":
