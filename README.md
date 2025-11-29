@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 Iniciamos la herramienta
 ```
-python3 linex.py -numero <numero>
+python3 linex.py -numero +526566388316
 ```
 Ejemplo
 ```
